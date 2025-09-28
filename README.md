@@ -10,7 +10,7 @@ Ionic React
 Capacitor
 
 # Execute
-In the terminal of IDE enter:
+In the terminal of IDE enter:  
 ```ionic serve```
 
 # Authors
